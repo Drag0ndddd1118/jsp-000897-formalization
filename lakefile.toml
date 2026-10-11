@@ -1,5 +1,5 @@
 name = "jsp-000897-formalization"
-defaultTargets = ["Submission"]
+defaultTargets = ["Submission", "JSP_000897"]
 
 [lean_options]
 pp.unicode.fun = true
@@ -17,3 +17,6 @@ name = "Challenge"
 
 [[lean_lib]]
 name = "Submission"
+
+[[lean_lib]]
+name = "JSP_000897"
